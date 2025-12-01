@@ -1,0 +1,7 @@
+export { Header } from "./Header"
+export { FeatureSection } from "./FeatureSection"
+export { TestimonialSection } from "./TestimonialSection"
+export { CTASection } from "./CTASection"
+export { Footer } from "./Footer"
+export { StatsSection } from "./StatsSection"
+export { LogoCloud } from "./LogoCloud"
